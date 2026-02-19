@@ -115,5 +115,3 @@ These labs focus on real-world system investigation, enumeration, and security a
 
 This repository will serve as my practical cybersecurity learning portfolio as I continue progressing in ethical hacking and security analysis.
 
-GitHub Repository:
-[Paste your GitHub link here]
